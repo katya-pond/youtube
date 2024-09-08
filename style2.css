@@ -1,0 +1,550 @@
+footer a {
+    font-size: 16px;
+    color: #C2C2C2;
+    text-decoration: none;
+}
+
+body section {
+    display: flex;
+    /* align-items: center; */
+    justify-content: space-between;
+}
+
+
+div#button-youtube {
+     
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    width: 13%;
+    margin-top: 2%;
+}
+
+
+
+
+.left {
+    display: flex;
+    flex-direction: column;
+}
+
+div#account img {
+    padding-right: 27px;
+}
+
+.Userpic {
+    padding-top: 10px;
+}
+
+section .menu {
+    align-items: center;
+}
+
+input {
+    height: 44px;
+    width: 60%;
+    background-color: #EBEBEB;
+    border-radius: 30px;
+    border: 0;
+    padding-left: 20px;
+    margin-top: 15px;
+}
+
+.search {
+    width: 60%;
+}
+
+.info {
+    display: flex;
+
+}
+
+.home-sub a {
+    font-size: 16px;
+    color: #898989;
+    text-decoration: none;
+}
+
+.libr-show a {
+    font-size: 16px;
+    color: #898989;
+    text-decoration: none;
+}
+
+.home-sub {
+    padding-bottom: 30px;
+}
+
+.info img {
+    padding-top: 15%;
+    padding-right: 10px;
+    padding-left: 30px;
+    width: 10%;
+}
+
+.info a:hover {
+    color: #FF0000;
+}
+
+.three a {
+    text-decoration: none;
+    font-size: 16px;
+    color: #898989;
+}
+
+.three a:hover {
+    color: #FF0000;
+
+}
+
+h1 {
+    font-weight: normal;
+    margin: auto;
+}
+
+.home-sub {
+    margin-top: 13%;
+}
+
+
+.rightt {
+    height: 57em;
+    width: 86%;
+    display: inline;
+    padding-top: 3%;
+}
+
+
+.rightt img {
+    width: 98%;
+}
+
+.dollie {
+    display: flex;
+    justify-content: space-between;
+    font-size: 26px;
+    font-weight: bold;
+}
+
+.username img {
+    width: 26%;
+}
+
+.username {
+    display: flex;
+    width: 18%;
+}
+
+.username p {
+    color: #19202C;
+    font-size: 21px;
+    margin-top: 7%;
+    margin-left: 5%;
+}
+
+
+.next img {
+    padding-right: 6%;
+}
+
+.next {
+    width: 12%;
+    align-items: center;
+    justify-content: center;
+    display: flex;
+}
+
+
+.next img {
+    width: 15%;
+}
+
+.video {
+    display: flex;
+    justify-content: space-between;
+}
+
+.video div {
+    padding-top: 2%;
+}
+
+.text {
+    display: flex;
+    justify-content: space-between;
+}
+
+.cover1 p {
+    margin: 0;
+}
+
+.text p {
+    margin: 0;
+    color: #C2C2C2;
+    font-size: 13px;
+}
+
+
+.recommended {
+    display: flex;
+    justify-content: space-between;
+}
+
+body {
+    overflow-x: hidden;
+}
+
+.recommended div {
+    padding-right: 3%;
+}
+
+.reccomendedd {
+    justify-content: space-between;
+    display: flex;
+    padding-top: 2%;
+    align-items: center;
+}
+
+.recommended div {
+    padding-top: 2%;
+
+}
+
+
+.three p {
+    font-size: 18px;
+    margin: 0;
+    font-size: 18px;
+    padding-left: 16%;
+    padding-top: 19%;
+}
+
+.food-and-drink {
+    display: flex;
+}
+
+.food-and-drink div {
+    padding-right: 2%;
+    padding-top: 2%;
+    margin-bottom: 3%;
+}
+
+
+.reccomendedd button {
+    background-color: #FF0000;
+    border-radius: 20px;
+    width: 23%;
+    height: 2em;
+    font-size: 16px;
+    margin-right: 4%;
+    border: none;
+    color: #EBEBEB;
+}
+
+
+.button-next {
+    display: flex;
+    width: 50%;
+    justify-content: end;
+    align-items: center;
+
+}
+
+.button-next img {
+    width: 3%;
+    height: 5%;
+    padding-right: 2%;
+}
+
+.poisk {
+    display: none;
+}
+
+footer {
+    display: none;
+}
+
+.main-hidden {
+    display: none;
+}
+
+.logo {
+    display: none;
+}
+
+.menu img {
+    width: 1.5%;
+}
+
+.menu a {
+    padding-top: 10%;
+    text-decoration: none;
+    color: #19202C;
+    padding-right: 3%;
+}
+
+.menu a:hover {
+    color: #FF0000;
+    text-decoration: underline;
+}
+
+.menu {
+    margin-top: 2%;
+    /* display: flex; */
+    align-items: center;
+}
+
+.video-on-chanel {
+    display: flex;
+    align-items: center;
+
+}
+
+.video-on-chanel img {
+    width: 46%;
+    height: 74%;
+}
+
+.video-on-chanel p {
+    padding-left: 4%;
+    padding-right: 2%;
+}
+
+.bold {
+    font-size: 26px;
+    font-weight: bold;
+}
+
+
+
+.chanel-video {
+    display: flex;
+}
+
+.chanel-recom {
+    display: flex;
+    align-items: center;
+    padding-bottom: 10%;
+}
+
+.chanel-recom img {
+    width: 5%;
+    width: 15%;
+    height: 5%;
+    padding-right: 3%;
+
+}
+
+.recommended-chanel {
+
+    width: 48%;
+    margin-left: 9%;
+}
+
+img#Black{
+    padding-left: 13%;
+}
+
+.no-hidden {
+    display: none;
+}
+
+.no-hidden2{
+    display: none;
+ 
+}
+
+
+h2,h3{
+    display: none;
+}
+
+@media screen and (max-width: 600px) {
+
+    input {
+        display: none;
+    }
+
+    .three {
+        display: none;
+
+    }
+
+
+    .dollie {
+        display: none;
+
+
+    }
+
+
+    .username {
+        display: none;
+
+    }
+
+    .recommended {
+        display: none;
+
+    }
+
+    .reccomendedd button {
+        width: 75%;
+    }
+
+    .button-next {
+        justify-content: flex-start;
+    }
+
+    .food-and-drink {
+        display: none;
+
+    }
+
+    .info {
+        display: none;
+    }
+
+
+    .video {
+        display: inline;
+    }
+
+    .none {
+        display: none;
+    }
+
+    img#Black {
+        display: none;
+    }
+
+
+    .video img {
+        width: 100%;
+    }
+
+
+    div#button-youtube {
+        display: flex;
+        width: 30%;
+                align-items: center;
+        margin-left: 3%;
+        padding-bottom: 3%;
+    }
+
+
+
+    div#button-youtube img {
+        padding-right: 5%;
+
+    }
+
+
+    .poisk {
+        width: 50%;
+        display: contents;
+    }
+
+    img.Userpic {
+        display: none;
+    }
+
+    .three {
+        display: contents;
+    }
+
+    .account {
+        display: flex;
+        align-items: center;
+    }
+
+    footer {
+        border-bottom: #19202C;
+        background-color: #FFFFFF;
+        display: flex;
+        justify-content: space-around;
+        position: fixed;
+        bottom: 0;
+        width: 100%;
+    }
+
+    footer div {
+        align-items: center;
+    }
+
+    .rightt {
+        width: 100%;
+        
+    }
+
+    footer p {
+        text-align: center;
+    }
+
+    .hidden {
+        display: none;
+    }
+
+    .no-hidden {
+        display: contents;
+        width: 100%;
+    }
+
+    .recommended-chanel {
+        display: none;
+    }
+
+    div.video-on-chanel {
+        display: none;
+    }
+
+    .logo {
+        display: contents;
+    }
+
+    .main-hidden {
+        display: contents;
+    }
+
+    .menu img {
+        width: 10%;
+    }
+
+    .menu{
+        padding-top: 20%;
+
+        display: flex;
+        align-items: center;
+    }
+    .menu a{
+        padding-top: 0;
+        padding-left: 14%;
+        padding-right: 29%;
+    }
+
+    div#account img {
+        width: 60%;
+    }
+
+    .search{
+        width: 0;
+    }
+
+
+    .no-hidden2{
+        display: flex;
+    }
+
+    h3{
+        display: block;
+        font-weight: normal;
+        color: #C2C2C2;
+        margin-top: 0;
+    }
+    h2{
+        display: block;
+
+        margin-bottom: 2%; 
+    }
+  
+
+}
